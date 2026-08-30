@@ -1,0 +1,9 @@
+dataset: visdrone
+input_size: 640
+grid_size: 80
+patch_cell_size: 64
+hit_half_size: 32
+ratios: [0.005, 0.01, 0.02, 0.04]
+decoder:
+  kernel_size: 7
+  score_threshold: 0.0

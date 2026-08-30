@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use DenseScout, please cite the ACM MM 2026 paper."
+title: "DenseScout"
+type: software
+version: "0.1.0-alpha.1"
+license: Apache-2.0
+repository-code: "https://github.com/zhouer-bear/DenseScout"
+authors:
+  - family-names: "Xiong"
+    given-names: "Zhouzhi"
+  - family-names: "Zeng"
+    given-names: "Zimo"
+  - family-names: "Chen"
+    given-names: "Yi"
+  - family-names: "Xu"
+    given-names: "Shuqi"
+  - family-names: "Yan"
+    given-names: "Yunfeng"
+  - family-names: "Qi"
+    given-names: "Donglian"
+preferred-citation:
+  type: conference-paper
+  title: "DenseScout: Algorithm-System Co-design for Budgeted Tiny Object Selection on Edge Platforms"
+  authors:
+    - family-names: "Xiong"
+      given-names: "Zhouzhi"
+    - family-names: "Zeng"
+      given-names: "Zimo"
+    - family-names: "Chen"
+      given-names: "Yi"
+    - family-names: "Xu"
+      given-names: "Shuqi"
+    - family-names: "Yan"
+      given-names: "Yunfeng"
+    - family-names: "Qi"
+      given-names: "Donglian"
+  year: 2026
+  doi: "10.1145/3767308.3836001"
+  conference:
+    name: "The 34th ACM International Conference on Multimedia"
+    location: "Rio de Janeiro, Brazil"
+    date-start: "2026-11-10"
+    date-end: "2026-11-14"
