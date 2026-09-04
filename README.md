@@ -4,7 +4,6 @@ Source-only prerelease.
 
 Paper: https://doi.org/10.1145/3767308.3836001  
 Code: https://github.com/zhouer-bear/DenseScout  
-arXiv: coming after the final camera-ready production confirmation
 
 DenseScout is a budgeted patch-center selector for tiny-object perception on edge platforms. It is not a final detector: it ranks patch centers, and downstream detectors may run only on selected crops.
 
